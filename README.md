@@ -12,6 +12,7 @@ This package shows different approaches to using seeds from a sql file.
 |:-------------:|:-------------:|
 | `1.0.0` | First approach of SQL import using "DB:unprepared" |
 | `1.0.1` | Add license to composer.json and remove Typo in README |
+| `1.0.2` | Remove wrong link in README |
 
 ## 📦 Installation ##
 
