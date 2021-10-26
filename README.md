@@ -8,9 +8,9 @@ This package shows different approaches to using seeds from a sql file.
 
 ### Changelog ###
 
-| Version        | Description  |
-| -------------- :|: ------------:|
-| 1.0.0     | First approach of SQL import using "DB:unprepared" |
+| Version | Description |
+|:-------------:|:-------------:|
+| `1.0.0` | First approach of SQL import using "DB:unprepared" |
 
 ## 📦 Installation ##
 
