@@ -1,0 +1,44 @@
+{
+    "name": "christian-schoenefeld/seeds-from-sql",
+    "type": "laravel-package",
+    "version": "1.0.0",
+    "description": "This package shows different approaches to using seeds from a sql file.",
+    "keywords": ["seeds", "sql", "laravel-package", "laravel", "package"],
+    "authors": [
+        {
+            "name": "Christian Schönefeld",
+            "email": "me@christian-schoenefeld.de",
+            "homepage": "https://www.christian-schoenefeld.de",
+            "role": "developer"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^8.67",
+        "php": "^7.4|^8.0"
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "ChristianSchoenefeld\\SeedsFromSql\\": "src",
+            "ChristianSchoenefeld\\SeedsFromSql\\Database\\Seeders\\": "./database/seeders"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "ChristianSchoenefeld\\SeedsFromSql\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "ChristianSchoenefeld\\SeedsFromSql\\Providers\\SeedsFromSqlProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "stable"
+}
