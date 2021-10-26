@@ -1,5 +1,5 @@
 # Seeds from SQL #
-[![Latest Stable Version](https://img.shields.io/packagist/v/christian-schoenefeld/seeds-from-sql?style=flat-square)](https://packagist.org/packages/cristal/php-api-wrapper)
+[![Latest Stable Version](https://img.shields.io/packagist/v/christian-schoenefeld/seeds-from-sql?style=flat-square)](https://packagist.org/packages/christian-schoenefeld/seeds-from-sql)
 [![GitHub issues](https://img.shields.io/github/issues/christian-schoenefeld/seeds-from-sql?style=flat-square)](https://github.com/christian-schoenefeld/seeds-from-sql/issues)
 
 ## Introduction text ##
