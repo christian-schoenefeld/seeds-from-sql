@@ -1,7 +1,7 @@
 {
     "name": "christian-schoenefeld/seeds-from-sql",
     "type": "laravel-package",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "description": "This package shows different approaches to using seeds from a sql file.",
     "keywords": ["seeds", "sql", "laravel-package", "laravel", "package"],
